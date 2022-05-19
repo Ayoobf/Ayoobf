@@ -11,4 +11,4 @@ Hope y'all reading this have a good rest of your day:)
 
 
 
-v1.0.0.0
+*v1.0.0.0*
